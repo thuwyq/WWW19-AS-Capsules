@@ -1,0 +1,362 @@
+{'sentence': 'IT IS DEFINITELY SPECIAL AND AFFORDABLE.', 'aspects': ['anecdotes/miscellaneous', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': "And everytime I go there's a bunch of drunk idiots making a scene out front.", 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': "I wasn't thrilled to have to wait on line for thirty minutes, but I guess that's the price you pay for a popular place.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'We started with lox and mussels (the best ive ever had, ever) and had the cod and trout for dinner.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Authentic bistro!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'I am amazed by the poor reviews- I find this place to be standout Italian in an area flooded with Italian- great prices, great atmosphere, good service and a wonderful wine list.', 'aspects': ['food', 'service', 'ambience', 'price'], 'labels': [0, 0, 0, 0], 'targets': []}
+{'sentence': 'Restaurant snobs need not bother, this is a small, neighborhood kind of place.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'There is also very limited seating and there can be a substantial wait in getting food at peak times.', 'aspects': ['ambience', 'service'], 'labels': [2, 2], 'targets': []}
+{'sentence': "It's really also the service, is good and the waiters are friendly.", 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Delivery service is great too.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'The lava cake dessert was incredible and I recommend it.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'It might have been a little too spicy for my friend, which you can couteract with eat more rice and keeping water on hand.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'great experience overall.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'try the spicy shrimp appetizer (again, not the greatest value in the world but worth the price) and the lamb vindaloo is great.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "You don't go to Mizu for excellent service, you go for the large amounts of food, the amiable atmosphere, and the hole-in-the-wall feeling of the place.", 'aspects': ['food', 'service', 'ambience'], 'labels': [0, 2, 0], 'targets': []}
+{'sentence': 'To my right, the hostess stood over a busboy and hissed rapido, rapido as he tried to clear and re-set a table for six.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Service is not what one would expect from a joint in this price category.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'All the pastas are fantastic and the homemade lasagna is some of the best that I have had in the City.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'And at the conclusion of this culinary nightmare the check was given to our table by knocking over a glass of water.', 'aspects': ['service', 'food'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'The prices were fantastic.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'I thought I had died and gone to heaven.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The view is spectacular, and the food is great.', 'aspects': ['food', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'But I just would like to say I read the reviews people left and thats why I checked it out.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'wow! how have i missed this one ,tried Long Tan last week for the first time and now know what the NY TIMES and many more in the neighborhood already knew.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The problem is just that-it is a sometimes kind of affair.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'My co-workers had to wait almost an hour for delivery, only to discover that what they got was not what they ordered.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Their calzones are horrific, bad, vomit-inducing, YUCK.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The menu consisted of standard brassiere food, better then places like Balthazar etc.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I work around the corner and tried it with a colleague for the first time.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'First went here to enjoy their garden terrace.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'And the prices were way to high for what you get.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'Food was average and creme brulee was awful - the sugar was charred, not caramelized and smelled of kerosene.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'Very different than regular dimsum places.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "This is the kind of place you'd like to take all your friends to and still keep a secret.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': "If you are a vegetarian, this really isn't a good place to go.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': "The catch is that you are charged extra for ANYTHING that you leave on your plate so don't be a greedy pig!", 'aspects': ['anecdotes/miscellaneous', 'price'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Try the sea bass.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'We would return to this place again!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The best burger I have had in the Village.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I ordered a Lassi and asked 4 times for it but never got it.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': "I'm no food critic, but I'd like to think I have a tiny bit of experience under my belt having lived in NY for the last 11 years.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'He has visited Thailand and is quite expert on the cuisine.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "All in all a wonderful experience, can't wait to come back.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Went last Thursday.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'The service was ok.', 'aspects': ['service'], 'labels': [1], 'targets': []}
+{'sentence': 'I recommend that you try this hidden spot which will surely blowup very soon', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The food is authentic Italian - delicious!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The food however, is what one might expect.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'I went at 6:00 PM specifically for the pre-theater menu ($19.95 for roasted tomato soup with chevre, steak frites, creme brulee) and it was marvelous.', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The flavors robust and subtle.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'night without a reservation, we had to wait at the bar for a little while, but the manager was so nice and made our wait a great experience.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Not worth the prices.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'The well mannered, pleasant staff that Tony has in his employ.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': "I'm going back.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'A few tips: skip the turnip cake, roast pork buns and egg custards.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'Really cool stauff inside.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'There are other Vietnamese restaurants in the chinatown area and you can forget about those.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "We live in New Jersey and whenever we go into New York City we buy bagels to eat hot and then to freeze (they told me that if I call in the order, they'd bring it out to the car so I wouldn't have to look for parking).", 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Great friendly service, Fast seating, Fast Delivery, Excellent sushi.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Go hungry and enjoy.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': "Besides having the table we had been promised given to other restaurant patrons twice before we were actually seated, we were served dishes we hadn't ordered three times, received one of our orders 20 minutes after the rest of the table had been served (and that order was undercooked), and charged $45 more than we should have been on our bill.", 'aspects': ['service', 'price'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'My friends spoke so much about it for months, I finally made the time to come down ear and dine in.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'I was very impressed by this low-key upper eastsider and their authentically thai cuisine!!!', 'aspects': ['food', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'My wife and I were in NYC celebrating our 30th anniversary.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'I do not recommend lunch specials just because it tasts the same with other regular chinese restaurant.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'I would go back.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'This restaurant is not worth the time, effort, or money to say the least.', 'aspects': ['price', 'anecdotes/miscellaneous'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Great food (spinach and corn dumplings and massamman curry), very friendly and no nonsense service and a clean and funky bathroom.', 'aspects': ['food', 'service', 'ambience'], 'labels': [0, 0, 0], 'targets': []}
+{'sentence': 'This place was not ALL THAT!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'Somewhat pricey but what the heck.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'I went to DF for Valentines Day dinner.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'I came into the city to try out this restaurant because a friend had recommended it to my husband.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "It's a steal!", 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'This is such a lovely, peaceful place to eat outside.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'Late nite omelletes are not good here, there is no variety!', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The rest of the dim sum, though pricey by Chinatown standards, is worth it.', 'aspects': ['food', 'price'], 'labels': [0, 2], 'targets': []}
+{'sentence': 'Mizu is home to creative and unique rolls not to found anywhere else.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'They never brought us complimentary noodles, ignored repeated requests for sugar, and threw our dishes on the table.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': "Consequently, their burgers fell apart in their hands and made such a mess that they did'nt feel like finishing them.", 'aspects': ['food', 'anecdotes/miscellaneous'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'The staff is also attentive and friendly.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': "Not only was the food outstanding, but the little 'perks' were great.", 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The sushi seemed pretty fresh and was adequately proportioned.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'We were still sitting at the bar while we drank the sangria, but facing away from the bar when we turned back around, the $2 was gone the people next to us said the bartender took it.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'Another great place to take out-of-towners!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'get over it!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "While the room is not particularly comfortable, once you're seated you'll forget about everything except what's on your plate.", 'aspects': ['food', 'ambience'], 'labels': [0, 2], 'targets': []}
+{'sentence': 'The cream cheeses are out of this world and I love that coffee!!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'THE FRANKENSTEIN SHOW WAS THE BEST.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Try the lasagnette appetizer.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'very good breads as well.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I have eaten there 3-4 times and the food was always good.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It's a rather cramped and busy restaurant and it closes early.", 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': 'I will recommend Scopa to all of my friends for a place to go for wonderful Italian food.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I had Lobster Bisque it has 2 oz. of Maine Lobster in it.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "Even with John's and Joe's around the corner, this place will make a name for itself.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Even better, they know how to cook French classics like Steak au Poivre and Onglet without burning it to death or overcooking it.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It's a place for people who pay a lot for mediocre food, noise and a chance to be with their fellow bridge and tunnel folks.", 'aspects': ['food', 'ambience', 'price'], 'labels': [1, 2, 2], 'targets': []}
+{'sentence': 'The lox is always fresh too.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Raga stands out with an interesting fusion of French and Indian cooking.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It's one of our favorite places to eat in NY.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'I have never had anything like it!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'I had the best ravioli ever.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'We will go back every time we are in the City.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': "they were dry and disgusting, i didn't even finish my first piece.", 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'I visit New Green Bo when I have money or when I am broke.', 'aspects': ['price'], 'labels': [1], 'targets': []}
+{'sentence': "I've been coming here as a child and always come back for the taste.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "Tried the pad see ew on the recommendation of the last reviewer since it's one of my favorite dishes.", 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'We had the scallops as an appetizer and they were delicious and the sauce was wonderful.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It's only $1.95 for a regular slice and $4.00 for a slice with a mushroom, not mushrooms.", 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'Ambiance is barely romantic but management tries.', 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': 'Diner food at bistro prices is a bummer....', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'Ingredients are organic which is a real plus for me.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Service was very prompt but slightly rushed.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Try the green curry!!!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I highly recommend visiting this restaurant and having dinner and drinks!', 'aspects': ['anecdotes/miscellaneous', 'food'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Anyway, the food is good, the price is right and they have a decent wine list.', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The hanger steak was like rubber and the tuna was flavorless not to mention it tasted like it had just been thawed.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'If you are in a big group, this place is perfect because it recomends sharing - they have lazy susans on most tables - even families can feel comfortable here.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'Get your food to go, find a bench, and kick back with a plate of dumplings.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': "It's not mind-blowing, but to me, thai food never is and never will be.", 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'Our last time there a few weeks ago was early at 5pm and it was very crowded and noisy.', 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': 'The server was really cool and served us our food and drinks with a smile.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Waitstaff are very friendly.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': "The prices and ambience are especially great considering it's in the West Village.", 'aspects': ['ambience', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The bagels are also reasonably priced for NYC.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'after dining at B.O.G over twenty times now, its official !', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'You must try the shrimp appetizers.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'You guys are awesome!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The bartender on my most recent visit was so incredibly rude that I will never go back.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'A real dissapointment.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'I recently went to this restaurant with some co-workers for lunch and had an amazing time.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'All of the pizzas are terrific and the price is even better!', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The food is tasty and portion sizes are appropriate.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Horrible.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'Check out the secret back room.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'Boy was I wrong!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "We ran a little late for the reservation but it wasn't a problem to get our table immediately.", 'aspects': ['anecdotes/miscellaneous', 'service'], 'labels': [1, 0], 'targets': []}
+{'sentence': 'We made early dinner reservations and were thoroughly impressed, reminds me of my grandfather, its old school Italian scenery with lots of fun stuff to admire.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'I was turned on to this restaurant by a fellow foodie friend of mine, and have been going back regularly ever since.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'I loved everythig about it-especially the shows and actors.', 'aspects': ['anecdotes/miscellaneous', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The place is sleek, modern and playfull and i will return again frequently.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'What more could you want?', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The service was bad, the food took to forever to come, we sat on the upper level.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Great find!!!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'You have to increase the service a lot.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'If I could rate the people this place would be off the charts - unfortunately - the pizza, sorry - not the best in NYC.', 'aspects': ['food', 'service'], 'labels': [2, 0], 'targets': []}
+{'sentence': 'Obviously the Chinese translation of this place does not mean Big Wong, it actually means Great Prosperity.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'really depends on your luck!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "I'm not sure why these other reviewers are whining so much.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Better than the bagel shop on the corner, but not worth going out of your way for, in my opinion.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'The all you can eat deal is truly amazing here.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'I love this place more and more everytime i go.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Example is the soup which was about 6 oz for $12 dollars and the mushrooms where $12 for about 1oz.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'In an area sadly lacking in decent Thai food, this is one of the best spots.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Fresh ingredients and everything is made to order.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'like saying her bread comes from a special bakery when we have seen her buying it dowtown manhathan.', 'aspects': ['food', 'service'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Someone else recommended the dessert - we also left that.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'I recieved prompt service with a smile.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'I am going to the mid town location next.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "The bruschetta and panini's are so yummy!", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I would highly recommend this place to anyone looking for a casual atmosphere that whisks you away to the left bank of the river Seine.', 'aspects': ['anecdotes/miscellaneous', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Chennai Garden is my favorite Indian restaurant in the city.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'We were not disappointed.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'My friend ordered some of their special sushi rolls which had excellent presentation and tasted great!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "And I've been to many NYC delis.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'If you love seafood, you would love this place!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The food is great.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'If you have a dumpling fetish i suggest you try some here!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I really recommend the very simple Unda (Egg) rolls.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I asked for seltzer with lime, no ice.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'Great service, great food.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'It is very overpriced and not very tasty.', 'aspects': ['food', 'price'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Knowledge of the chef and the waitress are below average.', 'aspects': ['service', 'food'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Will go back but only sate those homesick stomach cravings!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'To finish off such a delightful dinner experience you must have dessert, especially the White Chocolate Bread Pudding with Gelato and hot chocolate.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The staff are attentive, and have smiles on their faces.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'When I visited my friend who lives in the Upper Eastside, she recommended that we go to this restaurant.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Price no more than a Jersey deli but way better.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'You can also special order any kind of dumpling,etc.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Excellent atmosphere, delicious dishes good and friendly service.', 'aspects': ['food', 'service', 'ambience'], 'labels': [0, 0, 0], 'targets': []}
+{'sentence': 'Average to good Thai food, but terrible delivery.', 'aspects': ['food', 'service'], 'labels': [0, 2], 'targets': []}
+{'sentence': 'Prices are very good.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': '($200 for 2 glasses of champagne, not too expensive bottle of wine and 2 after dinner drinks).', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'On a recent Saturday night, I was with a group of 5 at the Bread Bar.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': "Eating at Ottimo is like eating in Chef Salvatore Esposito's home.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Nothing better than buying a snapple for $3.25 too.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'We were told that they were booked solid and no other table was available.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'My only problem is that you are literally sitting on top of the people next to you!', 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': 'No one asked what was wrong as we left with nothing touched on our plates.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'We all felt it was worth it.', 'aspects': ['price'], 'labels': [0], 'targets': []}
+{'sentence': 'still stay away, the table next to us walked out after my table and aanother were serves eventhough they were there much longer...', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Everyone I bring here always loves it.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Top spot in town for Vietnamese classics, better than places that cost a lot more.', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Most people eat there seem to be typical Upper East Side snobs, so be aware.', 'aspects': ['ambience'], 'labels': [2], 'targets': []}
+{'sentence': 'Authentic Pakistani food.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The only thing I could get attention from was one of at least two cats running around that kept batting at my table.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'The Yellowtail was particularly good as well.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Apparently, the good cook works then.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Try green curry with vegetables.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Three page wine menu, one page entree and horedevous.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The place is a lot of fun.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'they bring service up a notch by offerng complementary amuse bouche to all tables and gave us a small dessert for our celebration.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'It looked like shredded cheese partly done - still in strips.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'I ordered the crab cocktail and it was soaked in a lime juice concoction where all you could taste was the lime.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'Overall, the ingredients and technique are there and I am encouraged enough to return at lunch or dinner to see whether the boldness of the flavour palette improves.', 'aspects': ['food', 'anecdotes/miscellaneous'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'While most people can attest to spending over $50 on drinks in New York bars and hardly feeling a thing, the drinks here are plentiful and unique.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'We thought that this place is using too much of MSG cooking in the foods.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'It can be a very fun experience with a group, and kids (6 and over) would love it.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'Not enough wines by the glass either.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'I have enjoyed everything I have ever gotten and the fish is so fresh and always prepared in a great way.', 'aspects': ['food', 'anecdotes/miscellaneous'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Service could be improved but overall this is a place that understands the importance of little things (the heavy, black, antique-seeming teapot, for one) in the restaurant experience.', 'aspects': ['anecdotes/miscellaneous', 'service'], 'labels': [0, 2], 'targets': []}
+{'sentence': 'otherwise, good stuff for late nite eats.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I had Filet Mignon with garlic mash.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'Pizza was a little soggy.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The food is above average for midtown and sligtly better than some of the other Heartland Breweries in the city.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I have been to spice three times- twice during lunch and once at dinner.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Whenever you need a Sushi fix, Mizu will be there with quality fish and great service.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The Steak Tartare is a great bet, they fix it for you at the table.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Meanwhile, the bartender continued to pour champagne from his reserve after we had finished our bottle and we enjoyed an amuse of turnip soup with pureed basil, gratis.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'My son and his girlfriend both wanted cheeseburgers and they were huge!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'But they do.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'The dim sum here is only so-so.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'Got club soda, filled with ice, no lime.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'The food was below average, the service was pathetic, there was no ambience at all.', 'aspects': ['food', 'service', 'ambience'], 'labels': [2, 2, 2], 'targets': []}
+{'sentence': 'Ambiance- relaxed and stylish.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': "The food's as good as ever.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Obviously run by folks who know a pie.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'The sicilian is my favorite it is moist not dry like most places but all their pizza is great!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "The only disappointment was the coat check girls who didn't seem to know what a customer is on a realtively non-busy night (for the coat check girls).", 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Their sake martini is wonderful.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The portions are HUGE, so it might be good to order three things to split (rather than one appetizer and entree per person) for two people.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'While the new restaurant still features much of the same classical furniture that made Tiffin so attractive, the menu has been overhauled.', 'aspects': ['anecdotes/miscellaneous', 'ambience', 'food'], 'labels': [1, 0, 2], 'targets': []}
+{'sentence': 'In fact, two people could really share one plate.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Oh yeah ever on the west side try there sister resturant Arties Cafe.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Both times I was extremely dissappointed by the service, which was boarderline rude.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'We do not need to go to a four-star restaurant anymore.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'They are opening two more places as i saw a flyer there one in Yonkers which is a restraunt and banquet hall and another one in parsipanny new jersey.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'So, the menu is written in chalk above your head and it all sounds delicious.', 'aspects': ['food', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': "When we notified him that he didn't mention the specials, he didn't apologize but let us know that we made a very good decision regardless.", 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Went inside and I started to get excited.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'So rude.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'When you want a piece of beef, head on over.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It costs $2 extra to turn a regular roll into an inside-out roll, but the roll more than triples in size, and that's not just from the rice.", 'aspects': ['food', 'price'], 'labels': [1, 2], 'targets': []}
+{'sentence': 'This is also where I was from.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'The flavors are great, and the menu is extensive.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'It is about FOOD and Ambiance, and imagine how dreadful it will be it we only had to listen to an idle engine.', 'aspects': ['food', 'ambience'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Stepped on my foot on the SECOND time he reached over me to adjust lighting.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'We went to eat at the Jekyll and Hyde restaurant on Friday night and really enjoyed the fun atmosphere and good food.', 'aspects': ['food', 'anecdotes/miscellaneous', 'ambience'], 'labels': [0, 0, 0], 'targets': []}
+{'sentence': 'Will never be back.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'The food was terrific and the service classy, attentive, without being overbearing.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'No free drink.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'Overall the restaurant is more expensive than our other sushi favorites, but everything was delicious.', 'aspects': ['food', 'price'], 'labels': [0, 2], 'targets': []}
+{'sentence': 'Its not curry in a slurry crap, and regular run of the mill food.', 'aspects': ['food'], 'labels': [1], 'targets': []}
+{'sentence': 'The location and ambience is Ok but the food is what makes up for it.', 'aspects': ['food', 'ambience'], 'labels': [0, 1], 'targets': []}
+{'sentence': "It's charmingly small and that leads to an atmoshere that is extremely cozy and romantic, even.", 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'The food inludes famous scrumptious bombay style chaat such as bhelpuri, sevpuri and samosa chaats, as well as other great indian appetizers.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'While we thoroughly enjoyed the food, it was annoying to scream across the table for conversation.', 'aspects': ['ambience', 'food'], 'labels': [2, 0], 'targets': []}
+{'sentence': 'We both opted for a pasta dish and they were served timely and fresh.', 'aspects': ['service', 'food'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The chicken pot pie is excpetiona, the cheeseburger huge and delictable, and the service professional wan warm.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': "I'm still mad that i had to pay for lousy food.", 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'All pretty good.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Everything is excellent, the menu is quite extensive, and you eat with a view on both sides of the city.', 'aspects': ['food', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'What a great place.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'in an effort to increase turnover, the restaurant offers no desserts beyond the complimentary espresso cup filled with chocolate mousse.', 'aspects': ['service'], 'labels': [1], 'targets': []}
+{'sentence': 'No apologies during restaurant week.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': "I can't wait for summer, when they serve outside on their gigantic patio.", 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'If just to drop in, quickly stuff yourself and jet out -- to keep their turn-over.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'The service was friendly and the atmosphere was casual.', 'aspects': ['service', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Bleecker St Pizza is the best!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'you guys rock.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'If you live in Upper Manhattan, Siam Square is THE place for Thia food.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'If the omakase is to showcase technique and variety, serving almost 40% of items BBQ-ed and a spicy tuna roll wrapped with not-so-fresh nori seems to be a rather limp performance.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The food was lousy - too sweet or too salty and the portions tiny.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': "The dosas are skimpy, unattractive and drip with grease, and personally I'd drink popcorn topping before I'd eat another one of these.", 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'This is a consistently great place to dine for lunch or dinner.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Saturday, Nov. 6th I had a group from work come in with about 35 people and the staff was amazing to accomodate us.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': '(Always ask the bartender for the SEASONAL beer!!!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Overall, not worth the money.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': "When he finally did, he was unable to make a gin and tonic -- couldn't find tonic.", 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Not worth it.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': "Check it out, it won't hurt your stomach or your wallet.", 'aspects': ['anecdotes/miscellaneous', 'food', 'price'], 'labels': [0, 0, 0], 'targets': []}
+{'sentence': 'It was huge, delicious, fresh, and will be the reason we return.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The staff was accomodating, the food was absolutely delicious and the place is lovely.', 'aspects': ['food', 'service', 'ambience'], 'labels': [0, 0, 0], 'targets': []}
+{'sentence': 'The grilled cheese at home afterwards was better.!!', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The food was amazing, and the service was prompt and helpful, but not over-bearing or rushed.', 'aspects': ['food', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'I have eaten at Shabu Tatsu at least 5 times and I always want to go back for more!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The Thali was small, thoroughly unremarkable, and $14.95.', 'aspects': ['food', 'price'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'We ended our great experience by having Gulab Jamun (dessert) recommended by the waiter.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The second you walk through the heavy vault like door, with people anticipating your arrival you get the sense that you are going to have the dining ride of a lifetime.', 'aspects': ['ambience', 'service'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Chance is a joke.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'I must give it Yon out of Yon stars!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Nothing fancy but really good food with pretty reasonable price.', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'The food was just awful, ATROCIOUS actually.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'David, Daytona Beach, FL', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Brava La Pizza Fresca!', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Every waitress and customer who passed by me bumped into my chair.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'My boyfriend and I were in NY for a few days and Pastis was a place that came recommended.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'I was really disappointed ant wanted to tell everyone not to go eat or even take out food from there.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': "As a long-time patron of Mamoun's, I always figured that I had found the best late night food spot in the city.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Also a little more expensive than your average bagel place.', 'aspects': ['price'], 'labels': [2], 'targets': []}
+{'sentence': 'My first encounter happened one friday evening with a friend.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'I DO NOT RECOMMEND THE HEARTLAND BREWERY.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'The pizza is overpriced and soggy.', 'aspects': ['food', 'price'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'Service is average.', 'aspects': ['service'], 'labels': [1], 'targets': []}
+{'sentence': 'I definitely will go back.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The food is reliable and the price is moderate.', 'aspects': ['food', 'price'], 'labels': [0, 1], 'targets': []}
+{'sentence': 'The service was superb, they treat you like family.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': "I like the ambience, it's very dark and original.", 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'The main downside to the place is the nazi-like guy running it who constantly complains about the noise level.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'The plain slice is great and if you get toppings, the whole slice is topped with them, not sparsely sprinkled on like some places.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "it's the only place you can get yummy authentic japanese comfort food.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'All the appetizers and salads were fabulous, the steak was mouth watering and the pasta was delicious!!!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The svc can be a bit rude at times, esp if you have big group, but overall the restaurant is a must!', 'aspects': ['service', 'anecdotes/miscellaneous'], 'labels': [2, 0], 'targets': []}
+{'sentence': 'Try the congee and the donut like deep fried dough they call Ow Ley Soh, a delicious and sweet tasting bread.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The bread is the soft paratha bread (unlike the plain bread they use in Calcutta), and the stuffing is tandoori styled and very flavorful.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'This dish is my favorite and I always get it when I go there and never get tired of it.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "It's the perfect restaurant for NY life style, it got cool design, awsome drinks and food and lot's of good looking people eating and hanging at the pink bar...", 'aspects': ['food', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'THE BIG COMPLAINT: NO TOASTING AVAILABLE.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'A glass of Leaping Lizard, a glass of prosecco, and the mussels had everything happy.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Ok, for all of us growing up in the Village of NYC, we have spoiled by a plethora of restaurants, most of which stay open very late.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Never fails to please.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': "The food's dazzling flavors overwhelm the palate, truly embracing the beauty of authentic Thai cuisine.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The best thing I tasted were the lambchops.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I pray it stays open forever.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'I have been urged by friends for months to check out the mermaid inn.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'The Thai ice tea was amazingly smooth and yummy!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I was there on sat.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [1], 'targets': []}
+{'sentence': 'Considering their price of $6.25 for lunch special, the dish was ridiculously small.', 'aspects': ['price', 'food'], 'labels': [2, 2], 'targets': []}
+{'sentence': 'Try everything for that matter, it is all good.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': "They're also friendlier here, especially the owner, Kenny.", 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': "I'd definitely recommend this little place.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': '20 minutes for our reservation but it gave us time to have a few cocktails and enjoy our surroundings and each other.', 'aspects': ['anecdotes/miscellaneous', 'ambience'], 'labels': [0, 0], 'targets': []}
+{'sentence': "Don't leave without trying One Night in Tokyo.", 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Yet paired with such rude service, would never recommend for anyone interested in carrying any kind of conversation while there.', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'The food is a diamond in rough -- the food is delicious and homemade with the perfect balance of herbs and tomatoes.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'However, I think this place is a good hang out spot.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': 'I look forward to eating here again', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'The service was impeccable and unobtrusive -- the staff knows what they are there to do -- to know their menu, present your meal, and attend to your needs.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'Alain Ducasse is the best of everything, I mean everything was excelent.I', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Pick a bagel has the best bagels in the city.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I am surprised to say the least and find such practice not worth the effort.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': 'I would not have been so disappointed with the portions if the qualities were good enough to make up for it, but they were not!', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'Food was good not great not worth the wait or another visit', 'aspects': ['service'], 'labels': [2], 'targets': []}
+{'sentence': 'Metrazur has a beautiful spot overlooking the main terminal.', 'aspects': ['ambience'], 'labels': [0], 'targets': []}
+{'sentence': "The pizza is delicious - they use fresh mozzarella instead of the cheap, frozen, shredded cheese common to most pizzaria's.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Good drink.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The food was absolutely horrible!', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'The menu has lots of options: I hope to go back to try those potato pancakes.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'This is a fun restaurant to go to.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'My six year old loved it.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'They even scoop it out nice (for those on a diet) not too much not to little.', 'aspects': ['service'], 'labels': [0], 'targets': []}
+{'sentence': 'You should pass on the calamari.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'Our food was great too!', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'The bread and lamb chops I had before the meal were quite good, however.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'But that is highly forgivable.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Love Pizza 33..', 'aspects': ['anecdotes/miscellaneous'], 'labels': [0], 'targets': []}
+{'sentence': 'Not a typical pizza joint, but good for a low key and fairly cheap nice sit down dinner.', 'aspects': ['price', 'food'], 'labels': [0, 0], 'targets': []}
+{'sentence': 'I fell in love with the egg noodles in the beef broth with shrimp dumplings and slices of BBQ roast pork.', 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'Unfortunately, the food was NOT something to get worked up about.', 'aspects': ['food'], 'labels': [2], 'targets': []}
+{'sentence': 'This should have been done in a back room - away from customers.', 'aspects': ['anecdotes/miscellaneous'], 'labels': [2], 'targets': []}
+{'sentence': "The pesto pizza was excellent, thin-crust pizza with a nice amount of spicy Italian cheese that I'd never heard of before.", 'aspects': ['food'], 'labels': [0], 'targets': []}
+{'sentence': 'I would definitely go back -- if only for some of those exotic martinis on the blackboard.', 'aspects': ['food'], 'labels': [0], 'targets': []}
